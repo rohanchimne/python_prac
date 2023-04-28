@@ -330,11 +330,9 @@ from functools import *
 #     d[i]=count
 # print(d)
 
-<<<<<<< HEAD
 # ------------- hello  ram hi all how are you 
-=======
-# ------------- hello  ram hi all hello
->>>>>>> 53d8689aca8fe970b8c3d9954aacb0162e4c146a
+
+
 
 
 
