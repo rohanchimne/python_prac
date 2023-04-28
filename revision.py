@@ -316,7 +316,7 @@ from functools import *
 
 # print('count of {} is {}'.format(find,count))
 
-#-------------------------- but if we want to find the number of charcater counts in a string 
+#-------------------------- but if we want to find the number of charcater counts in a string -
 # str = 'abcccbdbcccbdboodd'
 # find = 'c'
 # count=0
